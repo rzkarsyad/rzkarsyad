@@ -18,7 +18,7 @@ Dicoding [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.co
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/https://www.linkedin.com/in/rzkarsyad//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/rzkarsyad/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/rzkarsyad/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 <p align="left">
