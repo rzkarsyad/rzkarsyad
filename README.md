@@ -11,12 +11,24 @@ I also create UI/UX designs and I upload them to
 
 If you are interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/rzkarsyad/) account.
 
+## Certifications
+Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/EYX476G8RXDL).\
+Dicoding [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/1OP8D9792PQK).\
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/https://www.linkedin.com/in/rzkarsyad//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/rzkarsyad/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 <p align="left">
 <a href="https://github.com/rzkarsyad">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
 
 <!--
 **rzkarsyad/rzkarsyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
