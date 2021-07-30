@@ -13,7 +13,7 @@ If you are interested in getting to know me, please follow my [LinkedIn](https:/
 
 ## Certifications
 Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/EYX476G8RXDL).\
-Dicoding [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/1OP8D9792PQK).\
+Dicoding [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/1OP8D9792PQK).
 
 ## Connect with me:
 <p align="left">
