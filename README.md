@@ -5,7 +5,7 @@
 If you are interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/rzkarsyad/) account.
 
 ## Certifications
-Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/EYX476G8RXDL).\
+Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/EYX476G8RXDL).
 
 ## Connect with me:
 <p align="left">
